@@ -1,4 +1,4 @@
-# React S.O.L.I.D Principles for writing clean-code
+# React S.O.L.I.D Principles for writing clean-code arc
 
 ![SOLID Principles](/src/assets/solid-principles.png)
 
